@@ -1,0 +1,94 @@
+.urunler-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.urunler-title {
+    font-weight: 100;
+    font-size: 82px;
+    line-height: 100px;
+    width: 838px;
+    height: 300px;
+}
+
+.urunler-scrool-down {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.urunler-isim {
+    font-size: 18px;
+    margin-right: 10px;
+    font-weight: 500;
+    color: #BEBEBE;
+}
+
+.cizgi {
+    margin: 5px;
+    display: inline-block;
+    width: 286px;
+    border-color: #BEBEBE;
+}
+
+.urun-detay2 {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.urun-baslik {
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: 500;
+}
+
+.urun-aciklama {
+    font-size: 18px;
+    font-weight: 100;
+    width: 469px;
+}
+
+.urunler-urun-div {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    gap: 20px;
+    padding: 50px;
+}
+
+.urun-photo {
+    width: 323px;
+    height: 323px;
+}
+
+.photoDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scrool-down {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.urunler-top {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.urunler-bas-kisim {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
