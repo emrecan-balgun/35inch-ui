@@ -1,8 +1,5 @@
 import './header.css';
-import Logo from './logo.svg';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-// // import { faChevronDown } from '@fortawesome/free-solid-svg-icons'
-
+import Logo from '../logo.svg';
 
 function Header() {
   return (
