@@ -1,0 +1,48 @@
+.manifesto-container {
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.manifesto {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.off {
+    color: #555555;
+}
+
+.active {
+    color: #FFFFFF;
+}
+
+ul {
+    list-style: none;
+}
+
+.numbers {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.count {
+    font-family: 'Lato', sans-serif;
+    font-size: 60px;
+}
+
+.manifesto-text span {
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 0.10px;
+}
+
+.manifesto-text p {
+    letter-spacing: 0.08px;
+    font-size: 16px;
+    font-weight: 400;
+    width: 623px;
+}
