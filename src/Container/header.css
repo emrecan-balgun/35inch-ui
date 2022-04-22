@@ -1,0 +1,47 @@
+.header {
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 30px;
+    list-style-type: none;
+}
+
+.menu li {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.faItem {
+    /* margin-left: 5px; */
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+.circle {
+    position: relative;
+    background-color: #FCB32C;
+    border-radius: 5rem;
+    width: 71px;
+    height: 71px;
+}
+
+.circleText {
+    margin-left: 10px;
+    position: absolute;
+}
