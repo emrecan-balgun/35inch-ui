@@ -5,6 +5,7 @@ import Footer from './Container/Footer/Footer';
 import Manifesto from './Components/Manifesto/Manifesto';
 import Urunler from './Components/Urunler/Urunler';
 import Chekici from './Components/Chekici/Chekici';
+import Slider from './Components/Slider/Slider';
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
     {/* <Manifesto /> */}
     {/* <Urunler /> */}
     <Header2 />
-    <Chekici />
+    {/* <Chekici /> */}
+    <Slider />
     <Footer />
     </>
   );

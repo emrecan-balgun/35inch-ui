@@ -4,7 +4,7 @@ import Chekici2 from './chekici2.svg'
 
 function Checkici() {
   return (
-    <div className="buAnaDiv">
+    <div className="chekiciDiv">
         <div className="parcaBir">
             <img className="parcaImg" src={Chekici1} alt="photo" />
         </div>
