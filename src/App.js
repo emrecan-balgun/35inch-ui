@@ -13,7 +13,7 @@ function App() {
   return (
     <>
     {/* <Manifesto /> */}
-    {/* <Urunler /> */}
+    <Urunler />
     {/* <Chekici /> */}
     {/* <Slider /> */}
     {/* <Parallax /> */}

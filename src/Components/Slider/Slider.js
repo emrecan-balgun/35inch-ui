@@ -1,4 +1,5 @@
 import './slider.css';
+import Header from '../../Container/Header2/Header2';
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -9,6 +10,7 @@ import 'swiper/css';
 function Slider() {
   return (
     <>
+    <Header />
         <div className="kapsayiciDiv">
             <div className="buAnaDiv">
                 <span className="slider-title">Chekici</span>

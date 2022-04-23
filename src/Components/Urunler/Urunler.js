@@ -2,10 +2,12 @@ import './urunler.css';
 import Photo1 from './photo1.svg';
 import Photo2 from './photo2.svg';
 import Photo3 from './photo3.png';
+import Header from '../../Container/Header/Header';
 
 function Urunler() {
   return (
     <> 
+    <Header />
     <div className="urunler-container">
         <div className="urunler-bas-kisim">
             <div className="urunler-top">
