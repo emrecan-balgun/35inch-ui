@@ -1,0 +1,23 @@
+.buAnaDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.parcaBir {
+    width: 50%;
+    height: 1080px;
+    background: #FD8F5C;
+    position: relative;
+}
+
+.parcaImg {
+    position: absolute;
+}
+
+.parcaIki {
+    width: 50%;
+    height: 1080px;
+    background: #EC6734;
+}

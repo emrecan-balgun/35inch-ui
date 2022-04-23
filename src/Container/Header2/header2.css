@@ -1,4 +1,4 @@
-.header {
+.header2 {
     padding-left: 70px;
     padding-right: 70px;
     padding-top: 50px;
@@ -7,6 +7,8 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    background-color: #FFFFFF;
+    color: black;
 }
 
 .menu {
