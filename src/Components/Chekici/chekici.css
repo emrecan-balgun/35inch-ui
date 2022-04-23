@@ -1,8 +1,7 @@
 .chekiciDiv {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
+    overflow: hidden;
 }
 
 .parcaBir {
@@ -12,8 +11,8 @@
     position: relative;
 }
 
-.parcaImg {
-    position: absolute;
+.parcaBir img {
+    margin-left: -100px;
 }
 
 .parcaIki {

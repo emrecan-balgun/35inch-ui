@@ -30,6 +30,7 @@
     display: inline-block;
     width: 286px;
     border-color: #BEBEBE;
+    border-width: 0.1px;
 }
 
 .urun-detay2 {

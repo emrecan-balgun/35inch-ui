@@ -6,18 +6,15 @@ import Header from '../../Container/Header2/Header2';
 function Checkici() {
   return (
     <>
-    <Header />
-    <div className="chekiciDiv">
-        <div className="parcaBir">
-            <img className="parcaImg" src={Chekici1} alt="photo" />
-        </div>
-        <div className="bosluk">
-
-        </div>
-        <div className="parcaIki">
-            <img className="parcaImg" src={Chekici2} alt="photo" />
-        </div>
-    </div>
+      <Header />
+      <div className="chekiciDiv">
+          <div className="parcaBir">
+              <img src={Chekici1} alt="photo" />
+          </div>
+          <div className="parcaIki">
+              <img src={Chekici2} alt="photo" />
+          </div>
+      </div>
     </>
   )
 }
