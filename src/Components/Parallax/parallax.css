@@ -1,0 +1,38 @@
+.parallax1 {
+    background-image: url("./photo.png");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    filter: opacity(80%);
+}
+
+.parallax-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #000;
+    color: #ffff;
+    padding: 150px;
+}
+
+.parallax-text span {
+    font-size: 60px;
+    font-weight: 100;
+}
+
+.parallax-text p {
+    font-size: 18px;
+    font-weight: 100;
+    width: 351px;
+}
+
+.parallax2 {
+    background-image: url("./photo2.png");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    filter: opacity(80%);
+}

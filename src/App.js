@@ -6,6 +6,8 @@ import Manifesto from './Components/Manifesto/Manifesto';
 import Urunler from './Components/Urunler/Urunler';
 import Chekici from './Components/Chekici/Chekici';
 import Slider from './Components/Slider/Slider';
+import Header3 from './Container/Header3/Header3';
+import Parallax from './Components/Parallax/Parallax';
 
 function App() {
   return (
@@ -13,9 +15,11 @@ function App() {
     {/* <Header /> */}
     {/* <Manifesto /> */}
     {/* <Urunler /> */}
-    <Header2 />
+    {/* <Header2 /> */}
     {/* <Chekici /> */}
-    <Slider />
+    {/* <Slider /> */}
+    {/* <Header3 /> */}
+    <Parallax />
     <Footer />
     </>
   );
