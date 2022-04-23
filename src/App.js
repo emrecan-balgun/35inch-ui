@@ -10,8 +10,8 @@ function App() {
   return (
     <>
     {/* <Manifesto /> */}
-    {/* <Urunler /> */}
-    <Chekici />
+    <Urunler />
+    {/* <Chekici /> */}
     {/* <Slider /> */}
     {/* <Parallax /> */}
     <Footer />

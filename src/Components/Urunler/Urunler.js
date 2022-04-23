@@ -1,7 +1,7 @@
 import './urunler.css';
 import Photo1 from './photo1.svg';
 import Photo2 from './photo2.svg';
-import Photo3 from './photo3.png';
+import Photo3 from './photo3.svg';
 import Header from '../../Container/Header/Header';
 
 function Urunler() {

@@ -63,8 +63,13 @@
 }
 
 .urun-photo {
-    width: 323px;
-    height: 323px;
+    /* filter: grayscale(100%); */
+    width: 469px;
+    height: 667px;
+}
+
+.urun-photo:hover {
+   filter: opacity(50%);
 }
 
 .photoDiv {
