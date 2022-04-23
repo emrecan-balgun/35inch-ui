@@ -1,7 +1,10 @@
 import './manifesto.css';
+import Header from '../../Container/Header/Header';
 
 function Manifesto() {
   return (
+    <>
+    <Header />
     <div className="manifesto-container">
         <span>/ Manifestomuz</span>
         <div className="manifesto">
@@ -57,6 +60,7 @@ function Manifesto() {
             </div>
         </div> */}
     </div>
+    </>
   )
 }
 

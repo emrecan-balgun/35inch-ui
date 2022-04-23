@@ -12,14 +12,11 @@ import Parallax from './Components/Parallax/Parallax';
 function App() {
   return (
     <>
-    {/* <Header /> */}
     {/* <Manifesto /> */}
     {/* <Urunler /> */}
-    {/* <Header2 /> */}
     {/* <Chekici /> */}
     {/* <Slider /> */}
-    {/* <Header3 /> */}
-    <Parallax />
+    {/* <Parallax /> */}
     <Footer />
     </>
   );
